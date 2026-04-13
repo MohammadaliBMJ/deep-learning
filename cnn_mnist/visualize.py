@@ -145,5 +145,6 @@ if __name__ == "__main__":
     images, _ = next(iter(data_loader))
 
     # Call the functions
+    plot_loss(train_loss, test_loss)
     visualize_kernels(model)
     visualize_predictions(model, images)
