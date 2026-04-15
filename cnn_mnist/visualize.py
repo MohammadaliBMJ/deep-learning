@@ -35,6 +35,8 @@ def plot_loss(train_loss:np.ndarray, test_loss: np.ndarray):
         alpha = 0.6, 
         label = "Test Loss"
     )
+    plt.xlabel("Epochs")
+    plt.ylabel("Loss")
     plt.tight_layout()
     plt.legend()
     plt.show()
