@@ -24,6 +24,16 @@ For a batch of 5 images from the dataset, it displays:
 - The first channel of the feature map after the second convolution layer.
 - The original image with the model's prediction.
 
+## Results
+
+Final Training Loss = 0.0438
+
+![Loss plot](images/plot.png)
+
+![Kernels](images/kernels.png)
+
+![Feature maps](images/feature%20maps.png)
+
 ## How to Run
 First run the following command in your terminal:
 ```bash
