@@ -30,6 +30,13 @@ Plots:
 - Train and test loss curve
 - Train and test accuracy curve
 - Feature maps after the second convolution layer + Example predictions with the actual image
+
+![Results](images/reults.png)
+
+![Visualization](images/visualization.png)
+
+![plots](images/plots.png)
+
 ### How to Run
 ```bash
 python data_generator.py
