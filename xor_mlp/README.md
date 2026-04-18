@@ -6,6 +6,10 @@ The activation function of the hidden layer is Tanh function.
 ## Results
 The models with 4 and 5 neurons in the hidden layer, learn the XOR function correctly and have the lowest errors as shown in the plot.
 
+![Predictions](images/predictions.png)
+
+![Loss Plot](images/plot.png)
+
 ## How to run
 Simply run the following command in your terminal.
 ```bash
